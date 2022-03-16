@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+foods,netflix,music,football,mobiles
 Use the left arrow to go back!
+
